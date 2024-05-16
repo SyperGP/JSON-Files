@@ -1,0 +1,32 @@
+{
+  "HosterName": "Syper",
+  "ServerName": "My server",
+  "ClusterName": "Syper's Cluster",
+  "ServerDescription":
+  {
+    "MaxDinoLvl": 600,
+    "Taming": 4,
+    "Experience": 1,
+    "Harvesting": 2,
+    "Breeding": 4,
+    "Stacks": 10,
+    "Other":
+    [
+        "Some feature specific to this very server"
+    ]
+  },
+  "ClusterDescription":
+  {
+    "MaxDinoLvl": 600,
+    "Taming": 4,
+    "Experience": 1,
+    "Harvesting": 2,
+    "Breeding": 4,
+    "Stacks": 10,
+    "Other":
+    [
+        "Some extra feature of my cluster",
+        "And another one"
+    ]
+  }
+}
